@@ -26,6 +26,11 @@
 + Username: employee 
 + Password: 123
 
+## Preview
+![Alt Text](./img/login.png)
+![Alt Text](./img/admin.png)
+![Alt Text](./img/employee.png)
+
 ## Contributing
 
 If you'd like to contribute, please fork the repository and submit a pull request. Any contributions are welcome.
